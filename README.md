@@ -9,9 +9,10 @@ Technologies Used
 - npm package
 
 Description
+
 This app will display a recipe's name, cousine, photo, ingredients, preparation instructions and action buttons like create, edit and delete.
 
 Setup/Installation Requirement
 - Clone this repository to your local machine
-- Open the project in VSCode
-- Run npm start and open in your browser
+- Open the project in the VSCode
+- Run npm start and open it in your browser
